@@ -1,0 +1,16 @@
+.CarForm {
+  display: flex;
+
+  justify-content: center;
+  color: white;
+  text-align: center;
+  margin: 10vmin 0;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+}
+.form input,
+textarea {
+  margin: 2vmin 0;
+}
