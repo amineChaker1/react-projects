@@ -1,0 +1,15 @@
+.CarCard {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+  width: 100%;
+  overflow: hidden;
+}
+.CarCard .container {
+  background-color: azure;
+  text-align: center;
+  width: 20%;
+  border-radius: 10px;
+  margin: 5vmin 5vmin;
+}
